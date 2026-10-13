@@ -12,7 +12,7 @@
     {
       "binding": "DB",
       "database_name": "univ_merch_db",
-      "database_id": "local-univ-merch-db",
+      "database_id": "df0fe737-5339-460f-aca3-163c3b7c7c36",
       "migrations_dir": "./migrations"
     }
   ],
