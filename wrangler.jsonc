@@ -20,6 +20,10 @@
     {
       "pattern": "www.merchify.web.id",
       "custom_domain": true
+    },
+    {
+      "pattern": "merchify.web.id",
+      "custom_domain": true
     }
   ],
   "vars": {
