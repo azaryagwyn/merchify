@@ -16,6 +16,12 @@
       "migrations_dir": "./migrations"
     }
   ],
+  "routes": [
+    {
+      "pattern": "www.merchify.web.id",
+      "custom_domain": true
+    }
+  ],
   "vars": {
     "MIDTRANS_IS_PRODUCTION": "false",
     "MIDTRANS_CLIENT_KEY": "SB-Mid-client-univ-sandbox-test",
