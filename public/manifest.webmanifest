@@ -1,0 +1,24 @@
+{
+  "name": "Merchify - Awrora University Store",
+  "short_name": "Merchify",
+  "description": "Toko Online Resmi Merchandise Awrora University: Almet Kampus & Fakultas, Tumbler Stainless, Lanyard, Kaos, Varsity, dan Hoodie",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2b0000",
+  "theme_color": "#8b0000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=192&h=192&q=80",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=512&h=512&q=80",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
